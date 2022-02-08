@@ -1,0 +1,22 @@
+body{
+  color: gold;
+  background-color: darkslateblue;
+}
+
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: darkslateblue;
+  background-color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  border: 5px solid green;
+
+}
